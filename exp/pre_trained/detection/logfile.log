@@ -1,0 +1,116 @@
+2025-09-19 14:45:53 | Wave ratio: 0.01 from 1134906, wave_size: 11349
+2025-09-19 14:45:53 | Processing 11349 samples with 16 CPUs
+2025-09-19 14:46:58 | Train XGBoost, train (9079, 13), val (2270, 13)
+2025-09-19 14:46:58 | [1]   train-logloss:0.29686   val-logloss:0.28890
+2025-09-19 14:46:58 | [2]   train-logloss:0.21842   val-logloss:0.21408
+2025-09-19 14:46:58 | [3]   train-logloss:0.16937   val-logloss:0.16763
+2025-09-19 14:46:58 | [4]   train-logloss:0.13639   val-logloss:0.13650
+2025-09-19 14:46:58 | [5]   train-logloss:0.11259   val-logloss:0.11413
+2025-09-19 14:46:58 | [6]   train-logloss:0.09605   val-logloss:0.09811
+2025-09-19 14:46:58 | [7]   train-logloss:0.08189   val-logloss:0.08548
+2025-09-19 14:46:58 | [8]   train-logloss:0.07319   val-logloss:0.07770
+2025-09-19 14:46:58 | [9]   train-logloss:0.06562   val-logloss:0.07045
+2025-09-19 14:46:58 | [10]   train-logloss:0.06047   val-logloss:0.06615
+2025-09-19 14:46:58 | [11]   train-logloss:0.05649   val-logloss:0.06333
+2025-09-19 14:46:58 | [12]   train-logloss:0.05378   val-logloss:0.06071
+2025-09-19 14:46:58 | [13]   train-logloss:0.05113   val-logloss:0.05876
+2025-09-19 14:46:58 | [14]   train-logloss:0.04939   val-logloss:0.05723
+2025-09-19 14:46:58 | [15]   train-logloss:0.04788   val-logloss:0.05631
+2025-09-19 14:46:58 | [16]   train-logloss:0.04674   val-logloss:0.05534
+2025-09-19 14:46:58 | [17]   train-logloss:0.04527   val-logloss:0.05416
+2025-09-19 14:46:58 | [18]   train-logloss:0.04446   val-logloss:0.05379
+2025-09-19 14:46:58 | [19]   train-logloss:0.04352   val-logloss:0.05252
+2025-09-19 14:46:58 | [20]   train-logloss:0.04283   val-logloss:0.05191
+2025-09-19 14:46:58 | [21]   train-logloss:0.04229   val-logloss:0.05128
+2025-09-19 14:46:58 | [22]   train-logloss:0.04180   val-logloss:0.05100
+2025-09-19 14:46:58 | [23]   train-logloss:0.04140   val-logloss:0.05084
+2025-09-19 14:46:58 | [24]   train-logloss:0.04100   val-logloss:0.05026
+2025-09-19 14:46:58 | [25]   train-logloss:0.04057   val-logloss:0.04969
+2025-09-19 14:46:58 | [26]   train-logloss:0.04023   val-logloss:0.04950
+2025-09-19 14:46:58 | [27]   train-logloss:0.04000   val-logloss:0.04947
+2025-09-19 14:46:58 | [28]   train-logloss:0.03961   val-logloss:0.04912
+2025-09-19 14:46:58 | [29]   train-logloss:0.03909   val-logloss:0.04853
+2025-09-19 14:46:58 | [30]   train-logloss:0.03872   val-logloss:0.04874
+2025-09-19 14:46:58 | [31]   train-logloss:0.03849   val-logloss:0.04841
+2025-09-19 14:46:58 | [32]   train-logloss:0.03831   val-logloss:0.04844
+2025-09-19 14:46:58 | [33]   train-logloss:0.03800   val-logloss:0.04834
+2025-09-19 14:46:58 | [34]   train-logloss:0.03751   val-logloss:0.04817
+2025-09-19 14:46:58 | [35]   train-logloss:0.03715   val-logloss:0.04834
+2025-09-19 14:46:58 | [36]   train-logloss:0.03693   val-logloss:0.04856
+2025-09-19 14:46:58 | [37]   train-logloss:0.03676   val-logloss:0.04859
+2025-09-19 14:46:58 | [38]   train-logloss:0.03663   val-logloss:0.04852
+2025-09-19 14:46:58 | Number of trees: 34
+2025-09-26 23:55:33 | Wave ratio: 0.001 from 1134906, wave_size: 1134
+2025-09-26 23:55:33 | Processing 1134 samples with 16 CPUs
+2025-09-26 23:55:38 | Train XGBoost, train (907, 13), val (227, 13)
+2025-09-26 23:55:38 | [1]   train-logloss:0.29175   val-logloss:0.27497
+2025-09-26 23:55:38 | [2]   train-logloss:0.21518   val-logloss:0.21353
+2025-09-26 23:55:38 | [3]   train-logloss:0.16685   val-logloss:0.17426
+2025-09-26 23:55:38 | [4]   train-logloss:0.13374   val-logloss:0.15087
+2025-09-26 23:55:38 | [5]   train-logloss:0.10859   val-logloss:0.13091
+2025-09-26 23:55:38 | [6]   train-logloss:0.09212   val-logloss:0.12287
+2025-09-26 23:55:38 | [7]   train-logloss:0.07917   val-logloss:0.11468
+2025-09-26 23:55:38 | [8]   train-logloss:0.07003   val-logloss:0.10828
+2025-09-26 23:55:38 | [9]   train-logloss:0.06272   val-logloss:0.10444
+2025-09-26 23:55:38 | [10]   train-logloss:0.05738   val-logloss:0.10300
+2025-09-26 23:55:38 | [11]   train-logloss:0.05319   val-logloss:0.10049
+2025-09-26 23:55:38 | [12]   train-logloss:0.04783   val-logloss:0.09510
+2025-09-26 23:55:38 | [13]   train-logloss:0.04509   val-logloss:0.09502
+2025-09-26 23:55:38 | [14]   train-logloss:0.04293   val-logloss:0.09570
+2025-09-26 23:55:38 | [15]   train-logloss:0.04125   val-logloss:0.09549
+2025-09-26 23:55:38 | [16]   train-logloss:0.03947   val-logloss:0.09320
+2025-09-26 23:55:38 | [17]   train-logloss:0.03820   val-logloss:0.09430
+2025-09-26 23:55:38 | [18]   train-logloss:0.03522   val-logloss:0.09107
+2025-09-26 23:55:38 | [19]   train-logloss:0.03404   val-logloss:0.08948
+2025-09-26 23:55:38 | [20]   train-logloss:0.03179   val-logloss:0.08813
+2025-09-26 23:55:38 | [21]   train-logloss:0.03099   val-logloss:0.08801
+2025-09-26 23:55:38 | [22]   train-logloss:0.02996   val-logloss:0.08754
+2025-09-26 23:55:38 | [23]   train-logloss:0.02909   val-logloss:0.08660
+2025-09-26 23:55:38 | [24]   train-logloss:0.02697   val-logloss:0.08500
+2025-09-26 23:55:38 | [25]   train-logloss:0.02617   val-logloss:0.08610
+2025-09-26 23:55:38 | [26]   train-logloss:0.02534   val-logloss:0.08584
+2025-09-26 23:55:38 | [27]   train-logloss:0.02413   val-logloss:0.08530
+2025-09-26 23:55:38 | [28]   train-logloss:0.02356   val-logloss:0.08628
+2025-09-26 23:55:38 | Number of trees: 24
+2025-09-26 23:58:57 | Wave ratio: 0.01 from 1134906, wave_size: 11349
+2025-09-26 23:58:57 | Processing 11349 samples with 16 CPUs
+2025-09-26 23:59:13 | Train XGBoost, train (9079, 13), val (2270, 13)
+2025-09-26 23:59:13 | [1]   train-logloss:0.29686   val-logloss:0.28890
+2025-09-26 23:59:13 | [2]   train-logloss:0.21842   val-logloss:0.21408
+2025-09-26 23:59:13 | [3]   train-logloss:0.16937   val-logloss:0.16763
+2025-09-26 23:59:13 | [4]   train-logloss:0.13639   val-logloss:0.13650
+2025-09-26 23:59:13 | [5]   train-logloss:0.11259   val-logloss:0.11413
+2025-09-26 23:59:13 | [6]   train-logloss:0.09605   val-logloss:0.09811
+2025-09-26 23:59:13 | [7]   train-logloss:0.08189   val-logloss:0.08548
+2025-09-26 23:59:13 | [8]   train-logloss:0.07319   val-logloss:0.07770
+2025-09-26 23:59:13 | [9]   train-logloss:0.06562   val-logloss:0.07045
+2025-09-26 23:59:13 | [10]   train-logloss:0.06047   val-logloss:0.06615
+2025-09-26 23:59:13 | [11]   train-logloss:0.05649   val-logloss:0.06333
+2025-09-26 23:59:13 | [12]   train-logloss:0.05378   val-logloss:0.06071
+2025-09-26 23:59:13 | [13]   train-logloss:0.05113   val-logloss:0.05876
+2025-09-26 23:59:13 | [14]   train-logloss:0.04939   val-logloss:0.05723
+2025-09-26 23:59:13 | [15]   train-logloss:0.04788   val-logloss:0.05631
+2025-09-26 23:59:13 | [16]   train-logloss:0.04674   val-logloss:0.05534
+2025-09-26 23:59:13 | [17]   train-logloss:0.04527   val-logloss:0.05416
+2025-09-26 23:59:13 | [18]   train-logloss:0.04446   val-logloss:0.05379
+2025-09-26 23:59:13 | [19]   train-logloss:0.04352   val-logloss:0.05252
+2025-09-26 23:59:13 | [20]   train-logloss:0.04283   val-logloss:0.05191
+2025-09-26 23:59:13 | [21]   train-logloss:0.04229   val-logloss:0.05128
+2025-09-26 23:59:13 | [22]   train-logloss:0.04180   val-logloss:0.05100
+2025-09-26 23:59:13 | [23]   train-logloss:0.04140   val-logloss:0.05084
+2025-09-26 23:59:13 | [24]   train-logloss:0.04100   val-logloss:0.05026
+2025-09-26 23:59:13 | [25]   train-logloss:0.04057   val-logloss:0.04969
+2025-09-26 23:59:13 | [26]   train-logloss:0.04023   val-logloss:0.04950
+2025-09-26 23:59:13 | [27]   train-logloss:0.04000   val-logloss:0.04947
+2025-09-26 23:59:13 | [28]   train-logloss:0.03961   val-logloss:0.04912
+2025-09-26 23:59:13 | [29]   train-logloss:0.03909   val-logloss:0.04853
+2025-09-26 23:59:13 | [30]   train-logloss:0.03872   val-logloss:0.04874
+2025-09-26 23:59:13 | [31]   train-logloss:0.03849   val-logloss:0.04841
+2025-09-26 23:59:13 | [32]   train-logloss:0.03831   val-logloss:0.04844
+2025-09-26 23:59:13 | [33]   train-logloss:0.03800   val-logloss:0.04834
+2025-09-26 23:59:13 | [34]   train-logloss:0.03751   val-logloss:0.04817
+2025-09-26 23:59:13 | [35]   train-logloss:0.03715   val-logloss:0.04834
+2025-09-26 23:59:13 | [36]   train-logloss:0.03693   val-logloss:0.04856
+2025-09-26 23:59:13 | [37]   train-logloss:0.03676   val-logloss:0.04859
+2025-09-26 23:59:13 | [38]   train-logloss:0.03663   val-logloss:0.04852
+2025-09-26 23:59:13 | Number of trees: 34
